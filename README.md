@@ -2,11 +2,11 @@
 
 ### Patient Risk Overview
 
-![Patient Risk Overview](Dashboard_page1_screenshot.png)
+![Patient Risk Overview](Dashboard_Page1_screenshot.png)
 
 ### Clinical Monitoring & Trend Analysis
 
-![Clinical Monitoring & Trend Analysis](Dashboard_page2_screenshot.png)
+![Clinical Monitoring & Trend Analysis](Dashboard_Page2_screenshot.png)
 
 **Objectives**
 
