@@ -1,3 +1,13 @@
+## Dashboard Preview
+
+### Patient Risk Overview
+
+![Patient Risk Overview](Dashboard_page1_screenshot.png)
+
+### Clinical Monitoring & Trend Analysis
+
+![Clinical Monitoring & Trend Analysis](Dashboard_page2_screenshot.png)
+
 **Objectives**
 
 * Analyze patient risk levels using clinical indicators.
